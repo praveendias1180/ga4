@@ -19,3 +19,7 @@ https://www.linkedin.com/learning/google-analytics-4-ga4-essential-training
 This tool allows you to easily add campaign parameters to URLs so you can measure Custom Campaigns in Google Analytics.
 
 https://ga-dev-tools.web.app/campaign-url-builder/
+
+## GitHub README promotion: Click the below link ✔️
+
+https://test-ga4-5ba53.web.app?utm_source=GitHub&utm_medium=social&utm_campaign=GitHub+README+Promo&utm_id=GitHub+Promo&utm_content=README+link
