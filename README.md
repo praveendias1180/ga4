@@ -32,3 +32,7 @@ https://test-ga4-5ba53.web.app?utm_source=GitHub&utm_medium=social&utm_campaign=
 ![GA4 Funnels](ga4-funnels.gif)
 
 I think these funnels are incredibly powerful. I encourage you to add a few for whatever flows that you're tracking for your users.
+
+# LinkedIn Certification
+
+![LinkedIn Certified](linkedin-certified.png)
