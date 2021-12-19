@@ -36,3 +36,13 @@ I think these funnels are incredibly powerful. I encourage you to add a few for 
 # LinkedIn Certification
 
 ![LinkedIn Certified](linkedin-certified.png)
+
+# Goolge Tag Manager - Certified
+
+https://analytics.google.com/analytics/academy/certificate/zl9EOhBfQvCBfjsYR9xwtA
+
+![GTM](gtm.png)
+
+# 🥇 🥈 🥉 Among the Top 5% of 735,100 People 😎
+
+![Top 5%](top-5-percent.png)
